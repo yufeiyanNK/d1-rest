@@ -10,8 +10,8 @@
     "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "d1-rest-d1",
-          "database_id": "b343a758-5bcf-4f84-bab4-99830829804a"
+          "database_name": "clouddb",
+          "database_id": "769afe8e-ef20-45e2-8143-58cd8f161a4f"
         }
     ],
     "secrets_store_secrets": [
