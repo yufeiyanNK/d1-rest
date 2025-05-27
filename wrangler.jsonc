@@ -10,7 +10,7 @@
     "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "clouddb",
+          "database_name": "d1-rest-d1",
           "database_id": "b343a758-5bcf-4f84-bab4-99830829804a"
         }
     ],
