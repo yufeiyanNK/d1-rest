@@ -4,13 +4,13 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "d1-rest",
+	"name": "CloudRestApi",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-03",
     "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "d1-rest-d1",
+          "database_name": "CloudDB",
           "database_id": "b343a758-5bcf-4f84-bab4-99830829804a"
         }
     ],
